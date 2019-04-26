@@ -1,7 +1,7 @@
-# Gameplay Video: https://www.youtube.com/watch?v=KUaO2-x3UsQ
-#
-# 2D Game "Disco Inferno" by B00348168
-# Game Engine Assessment 1
-# UWS Computer Games Development 18/19
-# 
-# Project Files: http://www.mediafire.com/file/pxkmurt8736elhn/Game_Engine_2D.zip/file
+Gameplay Video: https://www.youtube.com/watch?v=KUaO2-x3UsQ
+
+2D Game "Disco Inferno" by B00348168
+Game Engine Assessment 1
+UWS Computer Games Development 18/19
+ 
+Project Files: http://www.mediafire.com/file/pxkmurt8736elhn/Game_Engine_2D.zip/file
